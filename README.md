@@ -19,9 +19,9 @@ You can run the entire workflow inside your browser using the following link:
 
 The notebook allows you to:
 
-- Upload molecular structures (reactants, TS, and products)
-- Visualize them in **3D** (via *NGLview*)
-- Load pretrained **MACE** models from this repository
+- Upload molecular structures (reactants, TS, and products).
+- Visualize them in **3D** (via *NGLview*).
+- Load pretrained **MACE** models from this repository.
 - Evaluate structures and compute:
   - **Barrier Height corrections**
   - **Reaction Enthalpy corrections**
@@ -72,7 +72,7 @@ The folder **`Dataset_results/`** contains **Barrier Heights (BH)** and **Reacti
 
 ---
 ## Citation
-If the codes and models help you, you can cite
+If the codes and models help you, you can cite:
 ```
 @article{xxxx,
   title         = {Efficient Machine Learning barrier height and reaction enthalpy corrections for low- and mid-level quantum mechanical calculations},
