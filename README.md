@@ -2,7 +2,7 @@
 
 [![Colab](https://img.shields.io/badge/Launch-Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/OmarRodriguezLopez1398/ML_corrections_BH_RE/blob/main/BH_RE_correction.ipynb)
 
-
+![Imagen](GA_image.png)
 This repository provides machine learning (ML) correction models to improve **Barrier Height (BH)** and **Reaction Enthalpy (RE)** predictions using **MACE neural network potentials**.
 
 The ML potentials implement a **Δ-learning strategy**, providing corrections from low- or mid-level QM calculations —**PM6**, **HF**, and **r²SCAN-3c**—toward higher-level quantum chemical references such as **DFT** and **CCSD(T)**.
