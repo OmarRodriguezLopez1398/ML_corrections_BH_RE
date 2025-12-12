@@ -2,7 +2,7 @@
 
 [![Colab](https://img.shields.io/badge/Launch-Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/OmarRodriguezLopez1398/ML_corrections_BH_RE/blob/main/BH_RE_correction.ipynb)
 
-<p align="center"
+<p align="center">
   <img src="GA_image.png" />
 </p>
 
