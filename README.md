@@ -63,8 +63,6 @@ ML_corrections_BH_RE
 - r²SCAN-3c → CCSD(T)
 - r²SCAN-3c → DFT
 
-These models can be directly loaded in the Google Colab notebook.
-
 ---
 ## Dataset Results
 
