@@ -33,7 +33,7 @@ The notebook allows you to:
 
 ## 📁 Repository Structure
 
-```python
+```text
 ML_corrections_BH_RE
 ├── Models
 │   ├── PM6
